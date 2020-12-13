@@ -62,7 +62,7 @@ header .account a img {
     height: 34px;
     border-radius: 24px;
     border: 1px solid #dfe1e5;
-    background-image: url(/images/magnifying-glass.jpg);
+    background-image: url(./images/magnifying-glass.jpg);
     background-color: transparent;
     background-repeat: no-repeat;
     background-position: left;
